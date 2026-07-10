@@ -34,5 +34,10 @@ int main()
     s1.setRno(101);
     s1.setMarks(70, 40);
     s1.getResult();
+
+    student s2;
+    s2.setRno(102);
+    s2.setMarks(60, 50);
+    s2.getResult();
     return 0;
 }

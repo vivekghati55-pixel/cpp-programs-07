@@ -18,9 +18,9 @@ void addition ()
 }
 int main ()
 {
-    cout << "hello im main" << end1;
+    cout << "hello im main" << endl;
     addition();
-    cout << "main function is end" << end1;
+    cout << "main function is end" << endl;
     return 0;
 
 
